@@ -10,8 +10,10 @@ Catalytic Efficiency = `Vmax/Km`, this ratio provides a measure of how efficient
 
 # Usage:
 
-Simply save the data file `<data.csv>` and the script `kinetic_calculation.py` in one folder and run the script as:
+Simply save the input data file `<data.csv>` and the script `k9_calculator.py` in one folder and run the script as:
 
 ```python
-python3 kinetic_calculation.py data.csv michaelis_menten_plot.png
+python3 k9_calculator.py data.csv michaelis_menten_plot.png
 ```
+
+where `data.csv` is the input file name and `michaelis_menten_plot.png` is the output file name.
