@@ -17,3 +17,8 @@ python3 k9_calculator.py data.csv michaelis_menten_plot.png
 ```
 
 where `data.csv` is the input file name and `michaelis_menten_plot.png` is the output file name.
+
+# Example plot:
+
+If you run the script with example data file, you should be able to generate the plot below.
+![example plot](https://github.com/xing1wan/k9_calculator/blob/cf9f8b8cc4e4c7ab9c60596783bc37782845b7e9/michaelis_menten_plot.png)
